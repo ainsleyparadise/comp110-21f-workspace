@@ -1,4 +1,4 @@
-"""Writing relational operations with inputs"""
+"""Writing relational operations with inputs."""
 
 __author__ = "730402784"
 

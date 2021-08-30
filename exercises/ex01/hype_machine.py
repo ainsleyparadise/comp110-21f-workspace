@@ -1,4 +1,4 @@
-"""Writing sentences using inputs"""
+"""Writing sentences using inputs."""
 
 __author__ = "730402784"
 

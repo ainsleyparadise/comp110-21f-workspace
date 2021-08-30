@@ -1,4 +1,4 @@
-"""Writing numeric operators with inputs"""
+"""Writing numeric operators with inputs."""
 
 __author__ = "730402784"
 
@@ -13,4 +13,3 @@ print(str(left) + " ** " + str(right) + " is " + str(exp))
 print(str(left) + " / " + str(right) + " is " + str(div_float))
 print(str(left) + " // " + str(right) + " is " + str(div_floor))
 print(str(left) + " % " + str(right) + " is " + str(div_rem))
-
