@@ -1,4 +1,4 @@
-"""Challenge Question #2"""
+"""Challenge Question #2."""
 
 i: int = 0
 s: str = ""
