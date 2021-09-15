@@ -16,5 +16,6 @@ while x < len(word) and y <= len(word):
     else:
         x = x + 1
         y = y + 1
+        duplicate = False
         
 print("Found duplicate: " + str(duplicate))
